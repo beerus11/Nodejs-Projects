@@ -1,0 +1,22 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "simpleserver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechampanurag/Nodejs-Projects.git"
+  },
+  "keywords": [
+    "simpleserver"
+  ],
+  "author": "Anurag Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thechampanurag/Nodejs-Projects/issues"
+  },
+  "homepage": "https://github.com/thechampanurag/Nodejs-Projects#readme"
+}
