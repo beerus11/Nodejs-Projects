@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  .row
+    .medium-6.medium-centered.large-4.large-centered.columns
+      form
+        .row.column.log-in-form
+          h4 Log in
+          label
+            | Email
+            input(type='text', placeholder='somebody@example.com')
+          label
+            | Password
+            input(type='text', placeholder='Password')
+          input#show-password(type='checkbox')
+          label(for='show-password') Show password
+          p
+            a.button.expanded(type='submit') Log In
+          p.text-center
+            a(href='#') Forgot your password?
